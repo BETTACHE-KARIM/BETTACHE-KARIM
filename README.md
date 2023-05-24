@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Karim BETTACHE  </h1>
-<h3 align="center">A Software Engineering Student at EMSI </h2>
+<h3 align="center">A Software Engineering Student  </h2>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
