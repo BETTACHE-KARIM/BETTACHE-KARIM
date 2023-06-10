@@ -14,8 +14,6 @@
 
 - 👯 I’m  a **team worker**
 
-- 🤝 I’m looking for **internship**
-
 - 📫 How to reach me **bettachekarim.bk@gmail.com**
 
 
