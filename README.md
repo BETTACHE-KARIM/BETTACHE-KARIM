@@ -5,8 +5,6 @@
 
 
 - 🔭 I’m a passionate **Full-stack Developer** from MOROCCO
-  
-- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **MEAN, Flutter, Django, ASP.net**
 
