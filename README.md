@@ -6,7 +6,7 @@
 
 - 🔭 I’m a passionate **Full-stack Developer** from MOROCCO
 
-- 💬 Ask me about **Spring Boot, MEAN, Flutter, Django, ASP.net**
+- 💬 Ask me about **Software Engineering, DevOps, Cloud, ERP**
 
 - ⚡ I’m  a **quick learner**
 
